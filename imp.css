@@ -1,0 +1,39 @@
+body{
+    background-color: darkgray;
+}
+
+img{
+    mix-blend-mode: multiply;
+}
+
+.imp1{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    width:53%;
+}
+
+.nav-item1{
+    font-family: 'Andika', sans-serif;
+    font-weight: bolder;
+    text-shadow: 2px 2px black;
+    font-size: larger;
+    text-align: center;
+}
+
+.imp2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+
+}
+
+.imp3{
+    text-align:center;
+    font-family: 'DM Serif Display', serif;
+    text-shadow: 2px 2px wheat;
+    font-size: larger;
+    letter-spacing: 1px;
+}
+
